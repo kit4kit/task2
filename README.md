@@ -7,9 +7,9 @@
 На тестирование затрачено: 6 часов
 
 В результате тестирования выявлены следующие дефекты:
-* Карты типа Diners Club - Carte Blanche - Result is FAIL
-* Карты типа Diners Club - International - Result is FAIL
-* Карты типа American Express (AMEX) - Result is FAIL
+* https://github.com/kit4kit/task2/issues/1#issue-732381705
+* https://github.com/kit4kit/task2/issues/2#issue-732383542
+* https://github.com/kit4kit/task2/issues/3#issue-732384472
 
 ## Описание процесса тестирования
 
