@@ -9,7 +9,6 @@ public class Main {
         if (number == null) {
             return false;
         }
-gi
         if (number.length() != 16) {
             return false;
         }
