@@ -7,9 +7,9 @@
 На тестирование затрачено: 6 часов
 
 В результате тестирования выявлены следующие дефекты:
-* [FAIL при вводе номера карты типа Diners Club - Carte Blanche](https://github.com/kit4kit/task2/issues/1#issue-732381705)
-* [FAIL при вводе номера карты типа Diners Club - International](https://github.com/kit4kit/task2/issues/2#issue-732383542)
-* [FAIL при вводе номера карты типа American Express (AMEX)](https://github.com/kit4kit/task2/issues/3#issue-732384472)
+* [FAIL при вводе номера карты типа Diners Club - Carte Blanche](#issue-732381705)
+* [FAIL при вводе номера карты типа Diners Club - International](#issue-732383542)
+* [FAIL при вводе номера карты типа American Express (AMEX)](#issue-732384472)
 
 
 ## Описание процесса тестирования
